@@ -19,7 +19,7 @@ Welcome to my professional portfolio built using React! This portfolio showcases
 
 ## Deployment on Netlify
 
-This portfolio is deployed and hosted on [Netlify](https://www.netlify.com/). Live link is located [Here]()
+This portfolio is deployed and hosted on [Netlify](https://www.netlify.com/). Live link is located(https://app.netlify.com/sites/porfolio-resume/deploys/)
 
 ## License
 
