@@ -27,4 +27,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or questions, you can reach me at [mattcook2323@gmail.com](mattcook2323@gmail.com).
+For any inquiries or questions, you can reach me at [touchdownscreen@gmail.com).
