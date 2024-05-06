@@ -1,21 +1,22 @@
 # React Professional Portfolio
+It is build using React.
+shows my experience as a web developer and skills
 
-Welcome to my professional portfolio built using React! This portfolio showcases my skills, projects, and experience as a web developer.
+## Features and Provision 
 
-## Features
-
-- **About Me:** Introduces visitors to who I am and provides a brief overview of my skills and expertise.
-- **Portfolio Page:** Displays a collection of my projects, including descriptions, technologies used, and links to view them live or on GitHub.
-- **Resume Page:** Offers a downloadable link to my resume in PDF format.
-- **Contact Page:** Provides a form for visitors to get in touch with me directly.
+ Introduces who I am and provides a brief overview of my skills and expertise.
+ Displays my projects,descriptions, terminology used, and view on  GitHub.
+ Offers a link to my resume in PDF format.
+ Provides a form for visitors to get in touch with me directly.
 
 ## Technologies Used
 
-- **React:** Front-end framework for building user interfaces.
-- **HTML & CSS:** Markup and styling languages for structuring and designing web pages.
-- **JavaScript:** Programming language used for adding interactivity and functionality to the website.
-- **GitHub:** Version control platform used for hosting project repositories.
-- **Netlify:** Cloud platform used for deploying and hosting the portfolio website.
+ Front-end framework for building user interfaces.
+ Markup and styling languages for structuring and designing web pages.
+ Version control platform used for hosting project repositories.
+ Cloud platform used for deploying and hosting the portfolio website.
+ Programming language used for adding interactivity and functionality to the website.
+ 
 
 ## Deployment on Netlify
 
